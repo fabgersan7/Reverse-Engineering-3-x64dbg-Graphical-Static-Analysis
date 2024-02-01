@@ -1,0 +1,30 @@
+
+[--- USEFUL COMMANDS FOR GRAPHICAL STATIC ANALYSIS ---]
+[ setting bpx ]
+
+Right-click-->Breakpoint-->Toggle (F2)
+
+
+[ simulate call ]
+Select call-->Press Enter
+
+[ back-out of simulate  call ]
+Press "-" key
+
+[ stepping into call ]
+F7
+
+[ sync command ]
+right-click-->Sync with origin (S)
+
+[ simulate back-out of stepping into call ]
+Press "-" key
+
+
+[ going back into the stepped in call ]
+SS
+
+[ trace recording ]
+trace-->trace record-->word
+then, step over line by line (F8)
+
